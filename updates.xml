@@ -2,33 +2,34 @@
 <rss version="2.0">
   <channel>
     <title>OmsiRepainty CZ/SK</title>
-    <link>https://tvuj-web.github.io/Omsirepainty/</link>
+    <link>https://milovnikmhd1234.github.io/OmsirepaintyCZSK/</link>
     <description>Nejnovější české, slovenské a fiktivní repainty pro OMSI</description>
     <language>cs</language>
-    <lastBuildDate>Sat, 06 Apr 2026 23:26:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2026 23:31:00 +0200</lastBuildDate>
 
-    <!-- Příklad repaintu -->
     <item>
       <title>SAD Lučenec for Iveco Crossway 12 LE</title>
-      <link>https://milovnikmhd1234.github.io/OmsirepaintyCZSK/</link>
+      <link>https://milovnikmhd1234.github.io/OmsirepaintyCZSK/repaints/sad-lucenec/</link>
       <description>Krátký popis tohoto repaintu – co obsahuje, pro který typ autobusu apod.</description>
       <pubDate>Sat, 06 Apr 2026 23:26:00 +0200</pubDate>
-      <guid>https://milovnikmhd1234.github.io/OmsirepaintyCZSK/</guid>
+      <guid>https://milovnikmhd1234.github.io/OmsirepaintyCZSK/repaints/sad-lucenec/</guid>
     </item>
 
     <item>
       <title>Arriva Nitra for IVECO CROSSWAY 12 LE</title>
-      <link>https://milovnikmhd1234.github.io/OmsirepaintyCZSK/</link>
+      <link>https://milovnikmhd1234.github.io/OmsirepaintyCZSK/repaints/arriva-nitra/</link>
       <description>Popis druhého repaintu.</description>
-      <pubDate>Mon, 06 Apr 2026 13:27:00 +0200</pubDate>
-      <guid>https://milovnikmhd1234.github.io/OmsirepaintyCZSK/</guid>
+      <pubDate>Sat, 06 Apr 2026 23:27:00 +0200</pubDate>
+      <guid>https://milovnikmhd1234.github.io/OmsirepaintyCZSK/repaints/arriva-nitra/</guid>
     </item>
-<item>
+
+    <item>
       <title>Update Serveru</title>
-      <link>https://milovnikmhd1234.github.io/OmsirepaintyCZSK/</link>
+      <link>https://milovnikmhd1234.github.io/OmsirepaintyCZSK/update/</link>
       <description>Mame funkcni RSS FEED @everyone</description>
       <pubDate>Sat, 06 Apr 2026 23:31:00 +0200</pubDate>
-      <guid>https://milovnikmhd1234.github.io/OmsirepaintyCZSK/</guid>
+      <guid>https://milovnikmhd1234.github.io/OmsirepaintyCZSK/update/</guid>
     </item>
+
   </channel>
 </rss>
